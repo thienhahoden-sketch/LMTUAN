@@ -1,0 +1,654 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #e8edf3;
+            overflow: hidden;
+        }
+
+        .app {
+            display: flex;
+            height: 100vh;
+        }
+
+        /* ===== SIDEBAR (WIDER) ===== */
+        .sidebar {
+            width: 45%;
+            min-width: 440px;
+            background: #fff;
+            border-right: 1px solid #dde2ea;
+            overflow-y: auto;
+            padding: 16px 14px;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+        }
+
+        .sidebar-title {
+            font-size: 16px;
+            font-weight: 1800;
+            color: #1565c0;
+            margin-bottom: 34px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #e3f2fd;
+            display: flex;
+            align-items: center;
+            gap: 7px;
+        }
+
+        .sidebar-title svg {
+            flex-shrink: 0;
+        }
+
+        .group {
+            margin-bottom: 9px;
+        }
+
+        .group label {
+            display: block;
+            margin-bottom: 3px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #455a64;
+            text-transform: uppercase;
+            letter-spacing: .4px;
+        }
+
+        .group input,
+        .group textarea,
+        .group select {
+            width: 100%;
+            border: 1px solid #cfd8dc;
+            border-radius: 7px;
+            padding: 7px 10px;
+            font-size: 13.5px;
+            color: #263238;
+            background: #f9fbfc;
+            transition: border .18s;
+        }
+
+        .group input:focus,
+        .group textarea:focus,
+        .group select:focus {
+            outline: none;
+            border-color: #1976d2;
+            background: #fff;
+        }
+
+        .group textarea {
+            resize: vertical;
+            min-height: 54px;
+            line-height: 1.4;
+        }
+
+        .row2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+
+        /* ===== TOOLBAR ===== */
+        .toolbar {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 7px;
+            margin: 10px 0 12px;
+        }
+
+        button {
+            border: none;
+            border-radius: 7px;
+            padding: 9px 10px;
+            cursor: pointer;
+            font-weight: 700;
+            font-size: 13px;
+            letter-spacing: .2px;
+            transition: opacity .15s, transform .1s;
+        }
+
+        button:hover {
+            opacity: .9;
+        }
+
+        button:active {
+            transform: scale(.97);
+        }
+
+        .btn-primary {
+            background: #1976d2;
+            color: #fff;
+        }
+
+        .btn-success {
+            background: #2e7d32;
+            color: #fff;
+        }
+
+        .btn-warning {
+            background: #e65100;
+            color: #fff;
+        }
+
+        .btn-danger {
+            background: #b71c1c;
+            color: #fff;
+        }
+
+        /* ===== DRUG EDITOR ===== */
+        .drug-editor {
+            border: 1px solid #d0daea;
+            border-radius: 10px;
+            padding: 11px 12px;
+            background: #f5f8fc;
+        }
+
+        .drug-editor h3 {
+            color: #1565c0;
+            font-size: 13.5px;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .drug-row1 {
+            display: grid;
+            grid-template-columns: 1fr 100px 44px;
+            gap: 7px;
+            margin-bottom: 7px;
+        }
+
+        .drug-row2 {
+            display: flex;
+            gap: 7px;
+        }
+
+        .drug-row2 input {
+            flex: 1;
+        }
+
+        .drug-editor input {
+            width: 100%;
+            height: 36px;
+            border: 1px solid #bcc6d1;
+            border-radius: 7px;
+            padding: 0 10px;
+            font-size: 13px;
+            background: #fff;
+        }
+
+        .drug-editor input:focus {
+            outline: none;
+            border-color: #1976d2;
+        }
+
+        .drug-editor .btn-primary {
+            height: 36px;
+            font-size: 20px;
+            padding: 0;
+            width: 100%;
+        }
+
+        /* ===== MAIN ===== */
+        .main {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+        }
+
+        /* ===== PREVIEW (SMALLER) ===== */
+        .preview {
+            width: 100%;
+            min-width: 50%;
+            overflow-y: auto;
+            padding: 14px 10px;
+            background: #dce3ec;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .preview-label {
+            font-size: 14px;
+            font-weight: 900;
+            color: #78909c;
+            text-transform: uppercase;
+            letter-spacing: .8px;
+            margin-bottom: 8px;
+            align-self: flex-start;
+        }
+
+        .paper {
+            width: 148mm;
+            min-height: 210mm;
+            background: #fff;
+            padding: 9mm 10mm;
+            box-shadow: 0 3px 16px rgba(0, 0, 0, .18);
+            border-radius: 2px;
+            transform-origin: top center;
+            transform: scale(0.9);
+            margin-top: -50px;
+            margin-bottom: -80px;
+        }
+
+        /* ===== PRESCRIPTION ===== */
+        .prescription {
+            font-family: 'Times New Roman', serif;
+            color: #000;
+        }
+
+        .clinic {
+            text-align: center;
+            line-height: 1.2;
+            margin-bottom: 3px;
+        }
+
+        .clinic-name {
+            font-size: 13pt;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .unit-name {
+            font-size: 11.5pt;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 16pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin: 8px 0 10px;
+            letter-spacing: 1px;
+        }
+
+        .patient {
+            font-size: 11.5pt;
+            line-height: 1.35;
+            margin-bottom: 6px;
+        }
+
+        .patient-row {
+            display: flex;
+            gap: 6px;
+            margin-bottom: 2px;
+            flex-wrap: wrap;
+        }
+
+        .patient-label {
+            min-width: 82px;
+            font-weight: bold;
+        }
+
+        .rx {
+            font-size: 15pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .table-drug {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 11.5pt;
+        }
+
+        .table-drug td {
+            border: 1px solid #000;
+            padding: 4px 5px;
+            vertical-align: top;
+        }
+
+        .col-stt {
+            width: 32px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .drug-top {
+            display: flex;
+            justify-content: space-between;
+            gap: 8px;
+        }
+
+        .drug-name {
+            font-weight: bold;
+            flex: 1;
+        }
+
+        .drug-qty {
+            min-width: 80px;
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .drug-guide {
+            margin-top: 3px;
+            padding-top: 3px;
+            border-top: 1px dashed #888;
+            white-space: pre-line;
+            line-height: 1.25;
+        }
+
+        .note-box {
+            margin-top: 7px;
+            font-size: 11.5pt;
+            line-height: 1.35;
+        }
+
+        .note-title {
+            font-weight: bold;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 14px;
+        }
+
+        .sign {
+            width: 220px;
+            text-align: center;
+            font-size: 11.5pt;
+            line-height: 1.4;
+        }
+
+        .doctor {
+            margin-top: 48px;
+            font-weight: bold;
+            font-size: 12.5pt;
+        }
+
+        /* ===== HISTORY PANEL (SMALLER) ===== */
+        .history-panel {
+            width: 220px;
+            min-width: 190px;
+            background: #fff;
+            border-left: 1px solid #dde2ea;
+            overflow-y: auto;
+            padding: 12px 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 0;
+        }
+
+        .history-panel h3 {
+            color: #1565c0;
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            border-bottom: 1.5px solid #e3f2fd;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .search-box {
+            width: 100%;
+            border: 1px solid #cfd8dc;
+            border-radius: 6px;
+            padding: 5px 8px;
+            font-size: 12px;
+            margin-bottom: 10px;
+            background: #f9fbfc;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #1976d2;
+        }
+
+        .doctor-group {
+            margin-bottom: 10px;
+        }
+
+        .doctor-group-header {
+            background: #e3f2fd;
+            border-radius: 6px;
+            padding: 5px 8px;
+            font-size: 12px;
+            font-weight: 700;
+            color: #1565c0;
+            margin-bottom: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .doctor-group-count {
+            background: #1976d2;
+            color: #fff;
+            border-radius: 10px;
+            padding: 1px 7px;
+            font-size: 11px;
+        }
+
+        .pres-item {
+            border: 1px solid #e0e7ef;
+            border-radius: 7px;
+            padding: 7px 8px;
+            margin-bottom: 5px;
+            cursor: pointer;
+            position: relative;
+            transition: background .15s;
+        }
+
+        .pres-item:hover {
+            background: #f0f6ff;
+        }
+
+        .pres-top {
+            font-weight: 700;
+            font-size: 12px;
+            color: #212121;
+            margin-bottom: 1px;
+            padding-right: 18px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .pres-date {
+            font-size: 11px;
+            color: #888;
+            margin-bottom: 1px;
+        }
+
+        .pres-diagnosis {
+            font-size: 11px;
+            color: #546e7a;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .pres-delete {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background: #ffebee;
+            border: none;
+            border-radius: 4px;
+            color: #c62828;
+            font-size: 11px;
+            padding: 1px 5px;
+            cursor: pointer;
+            font-weight: 700;
+            display: none;
+            transition: background .15s;
+        }
+
+        .pres-item:hover .pres-delete {
+            display: block;
+        }
+
+        .pres-delete:hover {
+            background: #ffcdd2;
+        }
+
+        .empty-history {
+            text-align: center;
+            color: #b0bec5;
+            font-size: 12px;
+            padding: 20px 0;
+        }
+
+                /* ===== PRINT ===== */
+        @page {
+            size: A5 portrait;
+            margin: 0; /* Bo margin mac dinh cua trinh duyet de dung margin cua .paper */
+        }
+
+        @media print {
+            body {
+                background: white !important;
+                overflow: visible !important;
+                height: auto !important;
+            }
+
+            .sidebar,
+            .history-panel,
+            .preview-label,
+            .toolbar,
+            button,
+            svg {
+                display: none !important;
+            }
+
+            .app {
+                display: block !important;
+                height: auto !important;
+            }
+
+            .main {
+                display: block !important;
+                overflow: visible !important;
+            }
+
+            .preview {
+                width: 100% !important;
+                padding: 0 !important;
+                background: white !important;
+                overflow: visible !important;
+                display: block !important;
+            }
+
+            .paper {
+                width: 148mm;
+                min-height: 210mm;
+                height: auto !important;
+                box-shadow: none !important;
+                margin: 0 auto !important;
+                padding: 10mm 12mm !important;
+                transform: none !important;
+                border: none !important;
+                display: block;
+                page-break-after: always;
+            }
+
+            /* Tranh cat ngang dong thuoc khi qua trang */
+            .table-drug tr {
+                page-break-inside: avoid;
+                page-break-after: auto;
+            }
+
+            .table-drug {
+                page-break-inside: auto;
+            }
+            
+            .note-box {
+                page-break-inside: avoid;
+            }
+
+            .footer {
+                page-break-inside: avoid;
+            }
+        }
+
+        /* ===== DRUG AUTOCOMPLETE ===== */
+
+.drug-autocomplete{
+    position:relative;
+    width:100%;
+}
+
+.drug-suggest-box{
+    position:absolute;
+    top:38px;
+    left:0;
+    right:0;
+    background:#fff;
+    border:1px solid #cfd8dc;
+    border-radius:8px;
+    max-height:260px;
+    overflow-y:auto;
+    z-index:9999;
+    box-shadow:0 4px 14px rgba(0,0,0,.12);
+    display:none;
+}
+
+.drug-suggest-item{
+    padding:8px 10px;
+    cursor:pointer;
+    border-bottom:1px solid #eef2f5;
+    font-size:13px;
+}
+
+.drug-suggest-item:hover{
+    background:#e3f2fd;
+}
+
+.drug-suggest-main{
+    font-weight:700;
+    color:#1565c0;
+}
+
+.drug-suggest-sub{
+    font-size:11px;
+    color:#607d8b;
+    margin-top:2px;
+}
+
+.drug-suggest-detail {
+    display: flex;
+    gap: 5px;
+    margin-top: 3px;
+    flex-wrap: wrap;
+}
+
+.tag-ingredient {
+    background: #e8f5e9;
+    color: #2e7d32;
+    padding: 1px 5px;
+    border-radius: 4px;
+    font-size: 10.5px;
+    font-weight: 600;
+}
+
+.tag-maxdose {
+    background: #fff3e0;
+    color: #e65100;
+    padding: 1px 5px;
+    border-radius: 4px;
+    font-size: 10.5px;
+    font-weight: 600;
+}
+
+.drug-suggest-active{
+
+    background:#bbdefb !important;
+}
+.suggest-item {
+    padding: 6px;
+    cursor: pointer;
+}
+
+.suggest-item:hover {
+    background: #e3f2fd;
+}
+   

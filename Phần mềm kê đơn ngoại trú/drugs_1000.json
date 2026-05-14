@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1,
+    "biet_duoc_ham_luong": "Panadol 500mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau, hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 2,
+    "biet_duoc_ham_luong": "Efferalgan 500mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau, hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 3,
+    "biet_duoc_ham_luong": "Hapacol 650mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau, hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 4,
+    "biet_duoc_ham_luong": "Tylenol 500mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau, hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 5,
+    "biet_duoc_ham_luong": "Gofen 400mg",
+    "hoat_chat": "Ibuprofen",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "1200mg - 3200mg"
+  },
+  {
+    "id": 6,
+    "biet_duoc_ham_luong": "Advil 200mg",
+    "hoat_chat": "Ibuprofen",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "1200mg"
+  },
+  {
+    "id": 7,
+    "biet_duoc_ham_luong": "Voltaren 50mg",
+    "hoat_chat": "Diclofenac",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "150mg"
+  },
+  {
+    "id": 8,
+    "biet_duoc_ham_luong": "Mobic 15mg",
+    "hoat_chat": "Meloxicam",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "15mg"
+  },
+  {
+    "id": 9,
+    "biet_duoc_ham_luong": "Celebrex 200mg",
+    "hoat_chat": "Celecoxib",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "400mg"
+  },
+  {
+    "id": 10,
+    "biet_duoc_ham_luong": "Arcoxia 60mg",
+    "hoat_chat": "Etoricoxib",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 11,
+    "biet_duoc_ham_luong": "Naproxen 250mg",
+    "hoat_chat": "Naproxen",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "1250mg"
+  },
+  {
+    "id": 12,
+    "biet_duoc_ham_luong": "Aspirin 81mg",
+    "hoat_chat": "Aspirin",
+    "nhom_thuoc": "Chống kết tập tiểu cầu",
+    "lieu_toi_da": "325mg"
+  },
+  {
+    "id": 13,
+    "biet_duoc_ham_luong": "Clamoxyl 500mg",
+    "hoat_chat": "Amoxicillin",
+    "nhom_thuoc": "Kháng sinh (Penicillin)",
+    "lieu_toi_da": "3000mg"
+  },
+  {
+    "id": 14,
+    "biet_duoc_ham_luong": "Augmentin 625mg",
+    "hoat_chat": "Amoxicillin + Acid Clavulanic",
+    "nhom_thuoc": "Kháng sinh (Beta-lactam)",
+    "lieu_toi_da": "3000mg (Amox)"
+  },
+  {
+    "id": 15,
+    "biet_duoc_ham_luong": "Curam 1g",
+    "hoat_chat": "Amoxicillin + Acid Clavulanic",
+    "nhom_thuoc": "Kháng sinh (Beta-lactam)",
+    "lieu_toi_da": "3000mg (Amox)"
+  },
+  {
+    "id": 16,
+    "biet_duoc_ham_luong": "Klamentin 625mg",
+    "hoat_chat": "Amoxicillin + Acid Clavulanic",
+    "nhom_thuoc": "Kháng sinh (Beta-lactam)",
+    "lieu_toi_da": "3000mg (Amox)"
+  },
+  {
+    "id": 17,
+    "biet_duoc_ham_luong": "Zinnat 500mg",
+    "hoat_chat": "Cefuroxime",
+    "nhom_thuoc": "Kháng sinh (Cephalosporin)",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 18,
+    "biet_duoc_ham_luong": "Zinmax 500mg",
+    "hoat_chat": "Cefuroxime",
+    "nhom_thuoc": "Kháng sinh (Cephalosporin)",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 19,
+    "biet_duoc_ham_luong": "Meiact 200mg",
+    "hoat_chat": "Cefditoren",
+    "nhom_thuoc": "Kháng sinh (Cephalosporin)",
+    "lieu_toi_da": "400mg"
+  },
+  {
+    "id": 20,
+    "biet_duoc_ham_luong": "Zithromax 500mg",
+    "hoat_chat": "Azithromycin",
+    "nhom_thuoc": "Kháng sinh (Macrolid)",
+    "lieu_toi_da": "500mg"
+  },
+  {
+    "id": 21,
+    "biet_duoc_ham_luong": "Tavanic 500mg",
+    "hoat_chat": "Levofloxacin",
+    "nhom_thuoc": "Kháng sinh (Quinolon)",
+    "lieu_toi_da": "750mg"
+  },
+  {
+    "id": 22,
+    "biet_duoc_ham_luong": "Ciprobay 500mg",
+    "hoat_chat": "Ciprofloxacin",
+    "nhom_thuoc": "Kháng sinh (Quinolon)",
+    "lieu_toi_da": "1500mg"
+  },
+  {
+    "id": 23,
+    "biet_duoc_ham_luong": "Ronakym 500mg",
+    "hoat_chat": "Cefprozil",
+    "nhom_thuoc": "Kháng sinh (Cephalosporin)",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 24,
+    "biet_duoc_ham_luong": "Cefprozil 500mg",
+    "hoat_chat": "Cefprozil",
+    "nhom_thuoc": "Kháng sinh (Cephalosporin)",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 25,
+    "biet_duoc_ham_luong": "Trimoxal 480mg",
+    "hoat_chat": "Sulfamethoxazole + Trimethoprim",
+    "nhom_thuoc": "Kháng sinh (Sulfonamid)",
+    "lieu_toi_da": "1920mg"
+  },
+  {
+    "id": 26,
+    "biet_duoc_ham_luong": "Bactrim 480mg",
+    "hoat_chat": "Sulfamethoxazole + Trimethoprim",
+    "nhom_thuoc": "Kháng sinh (Sulfonamid)",
+    "lieu_toi_da": "1920mg"
+  },
+  {
+    "id": 27,
+    "biet_duoc_ham_luong": "Flagyl 250mg",
+    "hoat_chat": "Metronidazole",
+    "nhom_thuoc": "Kháng sinh (Nitroimidazol)",
+    "lieu_toi_da": "1500mg"
+  },
+  {
+    "id": 28,
+    "biet_duoc_ham_luong": "Dalacin C 300mg",
+    "hoat_chat": "Clindamycin",
+    "nhom_thuoc": "Kháng sinh (Lincosamid)",
+    "lieu_toi_da": "1800mg"
+  },
+  {
+    "id": 29,
+    "biet_duoc_ham_luong": "Nexium 40mg",
+    "hoat_chat": "Esomeprazole",
+    "nhom_thuoc": "Ức chế bơm Proton (PPI)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 30,
+    "biet_duoc_ham_luong": "Nexipraz 40mg",
+    "hoat_chat": "Esomeprazole",
+    "nhom_thuoc": "Ức chế bơm Proton (PPI)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 31,
+    "biet_duoc_ham_luong": "Losec 20mg",
+    "hoat_chat": "Omeprazole",
+    "nhom_thuoc": "Ức chế bơm Proton (PPI)",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 32,
+    "biet_duoc_ham_luong": "Pantoloc 40mg",
+    "hoat_chat": "Pantoprazole",
+    "nhom_thuoc": "Ức chế bơm Proton (PPI)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 33,
+    "biet_duoc_ham_luong": "Pariet 20mg",
+    "hoat_chat": "Rabeprazole",
+    "nhom_thuoc": "Ức chế bơm Proton (PPI)",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 34,
+    "biet_duoc_ham_luong": "Phosphalugel 20g",
+    "hoat_chat": "Aluminium phosphate",
+    "nhom_thuoc": "Kháng acid",
+    "lieu_toi_da": "6 gói"
+  },
+  {
+    "id": 35,
+    "biet_duoc_ham_luong": "Gaviscon 10ml",
+    "hoat_chat": "Natri alginat + Natri bicarbonat",
+    "nhom_thuoc": "Kháng acid",
+    "lieu_toi_da": "40ml"
+  },
+  {
+    "id": 36,
+    "biet_duoc_ham_luong": "Motilium 10mg",
+    "hoat_chat": "Domperidone",
+    "nhom_thuoc": "Chống nôn",
+    "lieu_toi_da": "30mg"
+  },
+  {
+    "id": 37,
+    "biet_duoc_ham_luong": "Imodium 2mg",
+    "hoat_chat": "Loperamide",
+    "nhom_thuoc": "Cầm tiêu chảy",
+    "lieu_toi_da": "16mg"
+  },
+  {
+    "id": 38,
+    "biet_duoc_ham_luong": "Berberin 50mg",
+    "hoat_chat": "Berberin",
+    "nhom_thuoc": "Kháng khuẩn tiêu hóa",
+    "lieu_toi_da": "500mg"
+  },
+  {
+    "id": 39,
+    "biet_duoc_ham_luong": "Smecta 3g",
+    "hoat_chat": "Diosmectite",
+    "nhom_thuoc": "Hấp phụ tiêu hóa",
+    "lieu_toi_da": "9g"
+  },
+  {
+    "id": 40,
+    "biet_duoc_ham_luong": "Amlor 5mg",
+    "hoat_chat": "Amlodipine",
+    "nhom_thuoc": "Chẹn kênh Canxi",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 41,
+    "biet_duoc_ham_luong": "Amlodipine 5mg",
+    "hoat_chat": "Amlodipine",
+    "nhom_thuoc": "Chẹn kênh Canxi",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 42,
+    "biet_duoc_ham_luong": "Cozaar 50mg",
+    "hoat_chat": "Losartan",
+    "nhom_thuoc": "Đối kháng thụ thể AT1",
+    "lieu_toi_da": "100mg"
+  },
+  {
+    "id": 43,
+    "biet_duoc_ham_luong": "Micardis 40mg",
+    "hoat_chat": "Telmisartan",
+    "nhom_thuoc": "Đối kháng thụ thể AT1",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 44,
+    "biet_duoc_ham_luong": "Concor 5mg",
+    "hoat_chat": "Bisoprolol",
+    "nhom_thuoc": "Chẹn Beta",
+    "lieu_toi_da": "20mg"
+  },
+  {
+    "id": 45,
+    "biet_duoc_ham_luong": "Vastarel MR 35mg",
+    "hoat_chat": "Trimetazidine",
+    "nhom_thuoc": "Điều trị đau thắt ngực",
+    "lieu_toi_da": "70mg"
+  },
+  {
+    "id": 46,
+    "biet_duoc_ham_luong": "Plavix 75mg",
+    "hoat_chat": "Clopidogrel",
+    "nhom_thuoc": "Chống kết tập tiểu cầu",
+    "lieu_toi_da": "75mg"
+  },
+  {
+    "id": 47,
+    "biet_duoc_ham_luong": "Hydrochlorothiazide 25mg",
+    "hoat_chat": "Hydrochlorothiazide",
+    "nhom_thuoc": "Lợi tiểu Thiazid",
+    "lieu_toi_da": "50mg"
+  },
+  {
+    "id": 48,
+    "biet_duoc_ham_luong": "Lasix 40mg",
+    "hoat_chat": "Furosemid",
+    "nhom_thuoc": "Lợi tiểu quai",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 49,
+    "biet_duoc_ham_luong": "Renitec 5mg",
+    "hoat_chat": "Enalapril",
+    "nhom_thuoc": "Ức chế men chuyển",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 50,
+    "biet_duoc_ham_luong": "Co-Aprovel 150/12.5mg",
+    "hoat_chat": "Irbesartan + HCTZ",
+    "nhom_thuoc": "Phối hợp hạ áp",
+    "lieu_toi_da": "300mg/25mg"
+  },
+  {
+    "id": 51,
+    "biet_duoc_ham_luong": "Lipitor 10mg",
+    "hoat_chat": "Atorvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 52,
+    "biet_duoc_ham_luong": "Crestor 10mg",
+    "hoat_chat": "Rosuvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 53,
+    "biet_duoc_ham_luong": "Zocor 20mg",
+    "hoat_chat": "Simvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 54,
+    "biet_duoc_ham_luong": "Glucophage 500mg",
+    "hoat_chat": "Metformin",
+    "nhom_thuoc": "Trị tiểu đường",
+    "lieu_toi_da": "2500mg"
+  },
+  {
+    "id": 55,
+    "biet_duoc_ham_luong": "Diamicron MR 60mg",
+    "hoat_chat": "Gliclazide",
+    "nhom_thuoc": "Trị tiểu đường",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 56,
+    "biet_duoc_ham_luong": "Forxiga 10mg",
+    "hoat_chat": "Dapagliflozin",
+    "nhom_thuoc": "Trị tiểu đường (SGLT2)",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 57,
+    "biet_duoc_ham_luong": "Januvia 100mg",
+    "hoat_chat": "Sitagliptin",
+    "nhom_thuoc": "Trị tiểu đường (DPP-4)",
+    "lieu_toi_da": "100mg"
+  },
+  {
+    "id": 58,
+    "biet_duoc_ham_luong": "Zyrtec 10mg",
+    "hoat_chat": "Cetirizine",
+    "nhom_thuoc": "Kháng Histamin",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 59,
+    "biet_duoc_ham_luong": "Telfast 180mg",
+    "hoat_chat": "Fexofenadine",
+    "nhom_thuoc": "Kháng Histamin",
+    "lieu_toi_da": "180mg"
+  },
+  {
+    "id": 60,
+    "biet_duoc_ham_luong": "Clarityne 10mg",
+    "hoat_chat": "Loratadine",
+    "nhom_thuoc": "Kháng Histamin",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 61,
+    "biet_duoc_ham_luong": "Aerius 5mg",
+    "hoat_chat": "Desloratadine",
+    "nhom_thuoc": "Kháng Histamin",
+    "lieu_toi_da": "5mg"
+  },
+  {
+    "id": 62,
+    "biet_duoc_ham_luong": "Ventolin 2mg",
+    "hoat_chat": "Salbutamol",
+    "nhom_thuoc": "Giãn phế quản",
+    "lieu_toi_da": "16mg"
+  },
+  {
+    "id": 63,
+    "biet_duoc_ham_luong": "Bisolvon 8mg",
+    "hoat_chat": "Bromhexine",
+    "nhom_thuoc": "Long đờm",
+    "lieu_toi_da": "24mg"
+  },
+  {
+    "id": 64,
+    "biet_duoc_ham_luong": "Singulair 10mg",
+    "hoat_chat": "Montelukast",
+    "nhom_thuoc": "Dự phòng hen",
+    "lieu_toi_da": "10mg"
+  },
+  {
+    "id": 65,
+    "biet_duoc_ham_luong": "Seretide 25/250",
+    "hoat_chat": "Salmeterol + Fluticasone",
+    "nhom_thuoc": "Corticoid + Giãn phế quản",
+    "lieu_toi_da": "Theo chỉ định"
+  },
+  {
+    "id": 66,
+    "biet_duoc_ham_luong": "Viread 300mg",
+    "hoat_chat": "Tenofovir disoproxil fumarate",
+    "nhom_thuoc": "Kháng virus",
+    "lieu_toi_da": "300mg"
+  },
+  {
+    "id": 67,
+    "biet_duoc_ham_luong": "Silymarin 140mg",
+    "hoat_chat": "Silymarin",
+    "nhom_thuoc": "Hỗ trợ gan",
+    "lieu_toi_da": "420mg"
+  },
+  {
+    "id": 68,
+    "biet_duoc_ham_luong": "Silyhepatic 140mg",
+    "hoat_chat": "Silymarin",
+    "nhom_thuoc": "Hỗ trợ gan",
+    "lieu_toi_da": "420mg"
+  },
+  {
+    "id": 69,
+    "biet_duoc_ham_luong": "Benfoheal 150mg",
+    "hoat_chat": "Benfotiamine",
+    "nhom_thuoc": "Vitamin/Bổ sung",
+    "lieu_toi_da": "300mg"
+  },
+  {
+    "id": 70,
+    "biet_duoc_ham_luong": "Feburic 80mg",
+    "hoat_chat": "Febuxostat",
+    "nhom_thuoc": "Trị Gout",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 71,
+    "biet_duoc_ham_luong": "Hebozeta 40mg",
+    "hoat_chat": "Febuxostat",
+    "nhom_thuoc": "Trị Gout",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 72,
+    "biet_duoc_ham_luong": "Avanka 500mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau, hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 73,
+    "biet_duoc_ham_luong": "Tebonin 40mg",
+    "hoat_chat": "Ginkgo biloba",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "240mg"
+  },
+  {
+    "id": 74,
+    "biet_duoc_ham_luong": "Tanakan 40mg",
+    "hoat_chat": "Ginkgo biloba",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "240mg"
+  },
+  {
+    "id": 75,
+    "biet_duoc_ham_luong": "Piracetam 1200mg",
+    "hoat_chat": "Piracetam",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "4800mg"
+  },
+  {
+    "id": 76,
+    "biet_duoc_ham_luong": "Medrol 16mg",
+    "hoat_chat": "Methylprednisolone",
+    "nhom_thuoc": "Corticosteroid",
+    "lieu_toi_da": "64mg"
+  },
+  {
+    "id": 77,
+    "biet_duoc_ham_luong": "Medrol 4mg",
+    "hoat_chat": "Methylprednisolone",
+    "nhom_thuoc": "Corticosteroid",
+    "lieu_toi_da": "64mg"
+  },
+  {
+    "id": 78,
+    "biet_duoc_ham_luong": "Decogamin",
+    "hoat_chat": "Vitamin nhóm B",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "Theo chỉ định"
+  },
+  {
+    "id": 79,
+    "biet_duoc_ham_luong": "Eurowitmin",
+    "hoat_chat": "Multivitamin",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "Theo chỉ định"
+  },
+  {
+    "id": 80,
+    "biet_duoc_ham_luong": "Gerolin",
+    "hoat_chat": "Multivitamin",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "Theo chỉ định"
+  },
+  {
+    "id": 81,
+    "biet_duoc_ham_luong": "Cttmoslin",
+    "hoat_chat": "Phối hợp",
+    "nhom_thuoc": "Vitamin & Khoáng chất",
+    "lieu_toi_da": "Theo chỉ định"
+  },
+  {
+    "id": 82,
+    "biet_duoc_ham_luong": "Laroscorbine 1g",
+    "hoat_chat": "Vitamin C",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "2g"
+  },
+  {
+    "id": 83,
+    "biet_duoc_ham_luong": "Calcium Corbiere 5ml",
+    "hoat_chat": "Canxi + Vitamin C+PP",
+    "nhom_thuoc": "Khoáng chất",
+    "lieu_toi_da": "2 ống"
+  },
+  {
+    "id": 84,
+    "biet_duoc_ham_luong": "Bepanthen 30g",
+    "hoat_chat": "Dexpanthenol",
+    "nhom_thuoc": "Thuốc bôi da",
+    "lieu_toi_da": "Theo nhu cầu"
+  },
+  {
+    "id": 85,
+    "biet_duoc_ham_luong": "Tobrex 5ml",
+    "hoat_chat": "Tobramycin",
+    "nhom_thuoc": "Thuốc nhỏ mắt",
+    "lieu_toi_da": "Theo chỉ định"
+  }
+]
