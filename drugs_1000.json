@@ -593,5 +593,2218 @@
     "hoat_chat": "Tobramycin",
     "nhom_thuoc": "Thuốc nhỏ mắt",
     "lieu_toi_da": "Theo chỉ định"
+  },
+
+  {
+    "id": 86,
+    "biet_duoc_ham_luong": "A.T Loperamid  2 mg",
+    "hoat_chat": "Loperamid",
+    "nhom_thuoc": "Tiêu hóa - chống tiêu chảy",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 87,
+    "biet_duoc_ham_luong": "A.T Sucralfate 1000mg/5g",
+    "hoat_chat": "Sucralfat",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 88,
+    "biet_duoc_ham_luong": "Acetalvic codein 30 500mg + 30mg",
+    "hoat_chat": "Paracetamol + codein phosphat",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 89,
+    "biet_duoc_ham_luong": "Acritel 10mg",
+    "hoat_chat": "Levocetirizin",
+    "nhom_thuoc": "Kháng histamin",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 90,
+    "biet_duoc_ham_luong": "Admiral 20mg/cap 20mg",
+    "hoat_chat": "Tenoxicam",
+    "nhom_thuoc": "Kháng viêm giảm đau NSAID",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 91,
+    "biet_duoc_ham_luong": "Adrenalin 1mg/1ml",
+    "hoat_chat": "Epinephrin (adrenalin)",
+    "nhom_thuoc": "Cấp cứu",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 92,
+    "biet_duoc_ham_luong": "Agifuros 40mg",
+    "hoat_chat": "Furosemid",
+    "nhom_thuoc": "Lợi tiểu quai",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 93,
+    "biet_duoc_ham_luong": "Agihistine  24mg",
+    "hoat_chat": "Betahistin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 94,
+    "biet_duoc_ham_luong": "AGILECOX  200mg",
+    "hoat_chat": "Celecoxib",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "400mg"
+  },
+  {
+    "id": 95,
+    "biet_duoc_ham_luong": "AGIROVASTIN  20mg",
+    "hoat_chat": "Rosuvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 96,
+    "biet_duoc_ham_luong": "Agisimva  20mg",
+    "hoat_chat": "Simvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 97,
+    "biet_duoc_ham_luong": "Albendazol  400mg",
+    "hoat_chat": "Albendazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 98,
+    "biet_duoc_ham_luong": "Albutein 25% ) 0,25g/ml (25%",
+    "hoat_chat": "Albumin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 99,
+    "biet_duoc_ham_luong": "Alphachymotrypsin ODT 4200 đơn vị USP",
+    "hoat_chat": "Alpha chymotrypsin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 100,
+    "biet_duoc_ham_luong": "Altamin   100mg; Cao khô Rau đắng đất  75mg; Cao khô hạt bìm bìm biếc  5,245mg) Cao actiso (tương đương 2,5g lá Actiso",
+    "hoat_chat": "Cao actiso (tương đương 2,5g lá Actiso), Cao khô Rau đắng đất (tương đương 0,525g rau đắng đất), Cao khô hạt bìm bìm biếc (tương đương 75mg bột hạt bìm bìm biếc)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 101,
+    "biet_duoc_ham_luong": "Aminazin 1,25% 25mg/2ml",
+    "hoat_chat": "Clorpromazin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 102,
+    "biet_duoc_ham_luong": "Aminic 200ml chứa: L-Isoleucin 1,820g; L-Leucin 2,580g; L-Lysin acetat 2,000g; L-Methionin 0,880g; L-Phenylalanin 1,400g; L-Threonin 1,500g; L-Tryptophan 0,260g; L-Valin 2,800g; L-Alanin 1,420g; L-Arginin 1,800g; L-Aspartic acid 0,200g; L-Cystein 0,070g; L-Glutamic acid 0,100g; L-Histidin 1,000g; L-Prolin 1,000g; L-Serin 0,340g; L-Tyrosin 0,080g; Glycin 1,400g",
+    "hoat_chat": "Acid amin*",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 103,
+    "biet_duoc_ham_luong": "Aminoplasmal Hepa 10%  3,755 g; Methionine 0,6 g; Phenylalanine 0,8 g; Threonine 2,3 g; Tryptophan 0,75 g; Valine 5,3 g; Arginine 4,4 g; Histidine 2,35 g; Glycine 3,15 g; Alanine 4,15 g; Proline 3,55 g; Aspartic Acid 1,25 g; Asparagine  0,24 g; Cystein  0,295 g; Glutamic Acid 2,85 g; Ornithine  0,65 g; Serine 1,85 g; Tyrosine  0,35 g) 500ml chứa: Isoleucine 4,4 g; Leucine 6,8 g; Lysine (dưới dạng Lysine Acetate",
+    "hoat_chat": "Acid amin*",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 104,
+    "biet_duoc_ham_luong": "Amitriptylin 25mg",
+    "hoat_chat": "Amitriptylin hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 105,
+    "biet_duoc_ham_luong": "Amlodipin  5mg",
+    "hoat_chat": "Amlodipin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 106,
+    "biet_duoc_ham_luong": "AQUIMA /10ml) (400mg + 351,9mg + 50mg",
+    "hoat_chat": "Magnesi hydroxyd + nhôm hydroxyd + simethicon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 107,
+    "biet_duoc_ham_luong": "ASPIRIN 81 81mg",
+    "hoat_chat": "Acetylsalicylic acid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 108,
+    "biet_duoc_ham_luong": "Atiliver Diệp hạ châu Diệp hạ châu đắng 800mg; Xuyên tâm liên 200mg; Bồ công anh 200mg; Cỏ mực 200mg.",
+    "hoat_chat": "Diệp hạ châu đắng, Xuyên tâm liên, Bồ công anh, Cỏ mực",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 109,
+    "biet_duoc_ham_luong": "Atropin Sulfat 0,25mg/ml",
+    "hoat_chat": "Atropin sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 110,
+    "biet_duoc_ham_luong": "Atropin sulphat 0,25mg/ml",
+    "hoat_chat": "Atropin sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 111,
+    "biet_duoc_ham_luong": "Atsotine Soft Capsule 400mg",
+    "hoat_chat": "Cholin alfoscerat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 112,
+    "biet_duoc_ham_luong": "Augbidil 1g; 200mg",
+    "hoat_chat": "Amoxicilin + acid clavulanic",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 113,
+    "biet_duoc_ham_luong": "Avanka 250mg/5ml + 250mg/5ml; 10ml",
+    "hoat_chat": "Calci ascorbat + Lysin Ascorbat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 114,
+    "biet_duoc_ham_luong": "BACI-SUBTI Mỗi gói 1g chứa: Bacillus subtilis R0179 ≥ 100.000.000 CFU",
+    "hoat_chat": "Bacillus subtilis",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 115,
+    "biet_duoc_ham_luong": "BACQURE  500mg + 500mg",
+    "hoat_chat": "Imipenem 500mg,  Cilastatin (dưới  dạng cilastatin  natri) 500mg",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 116,
+    "biet_duoc_ham_luong": "Basethyrox 100mg",
+    "hoat_chat": "Propylthiouracil (PTU)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 117,
+    "biet_duoc_ham_luong": "Benfoheal 150 150 mg",
+    "hoat_chat": "Benfotiamin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 118,
+    "biet_duoc_ham_luong": "Benita 64mcg/0,05ml",
+    "hoat_chat": "Budesonid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 119,
+    "biet_duoc_ham_luong": "Berberin 100mg",
+    "hoat_chat": "Berberin (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 120,
+    "biet_duoc_ham_luong": "Berberine  100mg",
+    "hoat_chat": "Berberin (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 121,
+    "biet_duoc_ham_luong": "Berlthyrox  100mcg",
+    "hoat_chat": "Levothyroxin (muối natri)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 122,
+    "biet_duoc_ham_luong": "Betasalic /10g) (3% + 0,064%",
+    "hoat_chat": "Salicylic acid + betamethason dipropionat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 123,
+    "biet_duoc_ham_luong": "Betixtin 24mg",
+    "hoat_chat": "Betahistin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 124,
+    "biet_duoc_ham_luong": "BFS - Amiron 150mg/3ml",
+    "hoat_chat": "Amiodaron hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 125,
+    "biet_duoc_ham_luong": "Bidinatec  10mg",
+    "hoat_chat": "Enalapril",
+    "nhom_thuoc": "Ức chế men chuyển",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 126,
+    "biet_duoc_ham_luong": "Bidisamin  500mg",
+    "hoat_chat": "Glucosamin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 127,
+    "biet_duoc_ham_luong": "BisacodylDHG 5mg",
+    "hoat_chat": "Bisacodyl",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 128,
+    "biet_duoc_ham_luong": "Bisoprolol 5mg",
+    "hoat_chat": "Bisoprolol fumarat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 129,
+    "biet_duoc_ham_luong": "BONLUTIN 500mg+ 500mg+ 11,1mg",
+    "hoat_chat": "Fish oil –natural , Glucosamine sulfate-potassium chloride complex , Chondroitin sulfate –shark",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 130,
+    "biet_duoc_ham_luong": "BRANCHAMINE 320,3mg+ 203,9mg+291mg+ 320,3mg+ 145,7mg+ 233mg+ 72,9mg+ 216,2mg+ 320,3mg",
+    "hoat_chat": "L-leucin+ L-isoleuein+ L-Lysia HCI+ L-Phenylalanin + L-threonin + L-valin + L- tryptophan + L-histidin hydroclorid monihydrat + L-methionin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 131,
+    "biet_duoc_ham_luong": "Buflan  1g; 1g",
+    "hoat_chat": "Cefoperazon + sulbactam",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 132,
+    "biet_duoc_ham_luong": "Bupivacaine Aguettant 5mg/ml 5 mg/ml",
+    "hoat_chat": "Bupivacain hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 133,
+    "biet_duoc_ham_luong": "Buto-Asma 100mcg/liều",
+    "hoat_chat": "Salbutamol sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 134,
+    "biet_duoc_ham_luong": "Cadirovib 5%/5g",
+    "hoat_chat": "Aciclovir",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 135,
+    "biet_duoc_ham_luong": "Calci clorid 500mg/ 5ml 500mg/ 5ml",
+    "hoat_chat": "Calci clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 136,
+    "biet_duoc_ham_luong": "Calci D-Hasan 1.250mg + 440IU",
+    "hoat_chat": "Calci carbonat + vitamin D3",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 137,
+    "biet_duoc_ham_luong": "Captopril Stella  25mg",
+    "hoat_chat": "Captopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 138,
+    "biet_duoc_ham_luong": "Carbamazepin  200 mg",
+    "hoat_chat": "Carbamazepin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 139,
+    "biet_duoc_ham_luong": "Carsil  90mg",
+    "hoat_chat": "Silymarin",
+    "nhom_thuoc": "Hỗ trợ gan",
+    "lieu_toi_da": "420mg"
+  },
+  {
+    "id": 140,
+    "biet_duoc_ham_luong": "Cefuroxim 500mg 500mg",
+    "hoat_chat": "Cefuroxim",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 141,
+    "biet_duoc_ham_luong": "Cepmox-Clav 875 mg/125 mg 875mg ; 125mg",
+    "hoat_chat": "Amoxicilin (dưới dạng Amoxicilin trihydrat compacted); Acid Clavulanic (dưới dạng kali Clavulanat - Avicel (1:1))",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 142,
+    "biet_duoc_ham_luong": "Cerebrolysin 215,2mg/ml ; 10ml",
+    "hoat_chat": "Peptide (Cerebrolysin Concentrate)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 143,
+    "biet_duoc_ham_luong": "Cevit  500mg/5ml",
+    "hoat_chat": "Vitamin C",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "2g"
+  },
+  {
+    "id": 144,
+    "biet_duoc_ham_luong": "Cinnarizin 25mg",
+    "hoat_chat": "Cinnarizin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 145,
+    "biet_duoc_ham_luong": "CIPROBID 400mg",
+    "hoat_chat": "Ciprofloxacin",
+    "nhom_thuoc": "Kháng sinh (Quinolon)",
+    "lieu_toi_da": "1500mg"
+  },
+  {
+    "id": 146,
+    "biet_duoc_ham_luong": "Clabact 250mg",
+    "hoat_chat": "Clarithromycin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 147,
+    "biet_duoc_ham_luong": "Clabact 500 500mg",
+    "hoat_chat": "Clarithromycin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 148,
+    "biet_duoc_ham_luong": "Clorpheniramin KP 4mg 4mg",
+    "hoat_chat": "Chlorpheniramin (hydrogen maleat)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 149,
+    "biet_duoc_ham_luong": "Clyodas 300mg",
+    "hoat_chat": "Clindamycin",
+    "nhom_thuoc": "Kháng sinh (Lincosamid)",
+    "lieu_toi_da": "1800mg"
+  },
+  {
+    "id": 150,
+    "biet_duoc_ham_luong": "Codalgin forte 500mg + 30mg",
+    "hoat_chat": "Paracetamol + codein phosphat",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 151,
+    "biet_duoc_ham_luong": "Colchicin 1mg",
+    "hoat_chat": "Colchicin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 152,
+    "biet_duoc_ham_luong": "Colosar- Denk 50/12.5 50mg + 12,5mg",
+    "hoat_chat": "Losartan + hydroclorothiazid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 153,
+    "biet_duoc_ham_luong": "Combilipid MCT Peri Injection  24g; Natri dihydrogen phosphat dihydrat 0,351g; Kẽm  0,0006g; L-Alanin 1,455g; L-Arginin 0,81g; L-Aspartic acid 0,45g; L-Glutamic acid 1,05g; Glycin 0,495g; L-Histidin  0,375g; L-Isoleucin 0,702g; L-Leucin 0,939g; L- Lysin  0,678g; L-Methionin 0,588g; L-Phenylalanin 1,053g; L-Prolin 1,02g; L-Serin 0,9g; L-Threonin 0,546g; L-Tryptophan 0,171g; L-Valin 0,78g; Calci  0,036g; Magiê  0,0219g; Kali  0,3519g; Natri  0,0276g; Natri  0,1277g; Natri  0,1379g; Dầu đậu nành tinh khiết 7,5g; Triglycerid mạch trung bình 7,5g. Túi 1250ml) Mỗi 375ml chứa: Glucose (dưới dạng Glucose monohydrat",
+    "hoat_chat": "Acid amin + glucose + lipid (*)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 154,
+    "biet_duoc_ham_luong": "Conipa Pure 10mg/10ml",
+    "hoat_chat": "Kẽm gluconat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 155,
+    "biet_duoc_ham_luong": "Cotrimoxazol  400mg + 80mg",
+    "hoat_chat": "Sulfamethoxazol + trimethoprim",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 156,
+    "biet_duoc_ham_luong": "Cotriseptol  400mg; 80mg",
+    "hoat_chat": "Sulfamethoxazol + trimethoprim",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 157,
+    "biet_duoc_ham_luong": "Coversyl 5mg 5mg",
+    "hoat_chat": "Perindopril arginine (tương ứng với 3,395mg perindopril)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 158,
+    "biet_duoc_ham_luong": "Cttprozil 500 500mg",
+    "hoat_chat": "Cefprozil",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 159,
+    "biet_duoc_ham_luong": "Curam  875mg + 125mg",
+    "hoat_chat": "Amoxicilin (dưới dạng  Amoxicilin trihydrat 1005mg) 875mg; Acid clavulanic (dưới dạng kali clavulanat 149mg) 125mg",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 160,
+    "biet_duoc_ham_luong": "Cyclonamine 12,5% 125 mg/ 1 ml",
+    "hoat_chat": "Ethamsylat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 161,
+    "biet_duoc_ham_luong": "Cyplosart 50 FC Tablets 50mg",
+    "hoat_chat": "Losartan kali",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 162,
+    "biet_duoc_ham_luong": "Daflon 1000mg 900mg; 100mg",
+    "hoat_chat": "Diosmin + hesperidin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 163,
+    "biet_duoc_ham_luong": "Daphazyl 750.000IU + 125mg",
+    "hoat_chat": "Spiramycin + Metronidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 164,
+    "biet_duoc_ham_luong": "DASBRAIN ) 1g (60mg+260mg+320mg",
+    "hoat_chat": "Dầu cá ngừ tự nhiên (chứa: Eicosapentaenoic acid 60 mg; Docosahexaenoic acid 260 mg; Omega - 3 marine triglycerides 320mg)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 165,
+    "biet_duoc_ham_luong": "Decogamin 600mg/7ml",
+    "hoat_chat": "Cholin alfoscerat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 166,
+    "biet_duoc_ham_luong": "Depakine  200mg",
+    "hoat_chat": "Valproat natri",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 167,
+    "biet_duoc_ham_luong": "Dexamethasone 4mg/1ml",
+    "hoat_chat": "Dexamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 168,
+    "biet_duoc_ham_luong": "Dexibufen softcap 400mg",
+    "hoat_chat": "Dexibuprofen",
+    "nhom_thuoc": "Kháng viêm giảm đau NSAID",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 169,
+    "biet_duoc_ham_luong": "DH-Metglu XR  1000mg",
+    "hoat_chat": "Metformin",
+    "nhom_thuoc": "Trị tiểu đường",
+    "lieu_toi_da": "2500mg"
+  },
+  {
+    "id": 170,
+    "biet_duoc_ham_luong": "Diazepam 10mg/2ml 10mg/2ml",
+    "hoat_chat": "Diazepam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 171,
+    "biet_duoc_ham_luong": "Diazepam-Hameln 5mg/ml Injection 10mg/2ml",
+    "hoat_chat": "Diazepam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 172,
+    "biet_duoc_ham_luong": "Diclofenac 75mg/3ml",
+    "hoat_chat": "Diclofenac",
+    "nhom_thuoc": "Kháng viêm giảm đau NSAID",
+    "lieu_toi_da": "150mg"
+  },
+  {
+    "id": 173,
+    "biet_duoc_ham_luong": "Dimedrol 10mg/1ml",
+    "hoat_chat": "Diphenhydramin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 174,
+    "biet_duoc_ham_luong": "Distocide 600mg",
+    "hoat_chat": "Praziquantel",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 175,
+    "biet_duoc_ham_luong": "Dobutamine-hameln 12,5mg/ml 250mg/20ml",
+    "hoat_chat": "Dobutamin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 176,
+    "biet_duoc_ham_luong": "Domreme 10mg",
+    "hoat_chat": "Domperidon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 177,
+    "biet_duoc_ham_luong": "Doxycycline  100mg",
+    "hoat_chat": "Doxycyclin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 178,
+    "biet_duoc_ham_luong": "Drotaverin 40mg",
+    "hoat_chat": "Drotaverin clohydrat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 179,
+    "biet_duoc_ham_luong": "Drotusc Forte 80mg",
+    "hoat_chat": "Drotaverin clohydrat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 180,
+    "biet_duoc_ham_luong": "Dung dịch OMK1 nhỏ mắt 0,2g; 0,02g",
+    "hoat_chat": "Lọ 10ml chứa: Citicolin natri; Natri hyaluronat, Sodium phosphate monobasic monohydrat, Sodium phosphate dibasic dodecahydrate, Sodium chloride, Benzalkonium chloride, nước vô trùng.",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 181,
+    "biet_duoc_ham_luong": "Duphalac 10g/15ml 10g/15ml",
+    "hoat_chat": "Lactulose",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 182,
+    "biet_duoc_ham_luong": "Ediwel 75mg",
+    "hoat_chat": "Clopidogrel",
+    "nhom_thuoc": "Chống kết tập tiểu cầu",
+    "lieu_toi_da": "75mg"
+  },
+  {
+    "id": 183,
+    "biet_duoc_ham_luong": "Efferalgan 500mg",
+    "hoat_chat": "Paracetamol (Acetaminophen)",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 184,
+    "biet_duoc_ham_luong": "Ephedrine Aguettant 30mg/1ml 30mg/ 1ml",
+    "hoat_chat": "Ephedrin (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 185,
+    "biet_duoc_ham_luong": "Ephedrine Aguettant 30mg/ml 30mg/ml",
+    "hoat_chat": "Ephedrin (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 186,
+    "biet_duoc_ham_luong": "Ephedrine Hydrochloride Injection 30 mg in 1 ml 30mg/1ml",
+    "hoat_chat": "Ephedrin (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 187,
+    "biet_duoc_ham_luong": "Esomeprazol  20mg",
+    "hoat_chat": "Esomeprazol",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 188,
+    "biet_duoc_ham_luong": "Espumisan L 40mg/ml",
+    "hoat_chat": "Simethicon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 189,
+    "biet_duoc_ham_luong": "Eurowitmin 15mg + 30mg +  500IU + 2.5mg + 2mg + 8mg + 2mg+  5.2mcg +  100IU +  8mg + 5mg",
+    "hoat_chat": "Sắt II sulfat  + Lysin HCl  + Vitamin A  + Vitamin B1 + Vitamin B2  + Vitamin PP  + Vitamin B6 + Vitamin B12  + Vitamin D3  + Calci glycerophosphat + Magnesi gluconat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 190,
+    "biet_duoc_ham_luong": "Evaldez 50mg",
+    "hoat_chat": "Levosulpirid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 191,
+    "biet_duoc_ham_luong": "Falipan 200mg/ 10ml",
+    "hoat_chat": "Lidocain hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 192,
+    "biet_duoc_ham_luong": "Fastum Gel 2,5g/100g gel, 30g",
+    "hoat_chat": "Ketoprofen",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 193,
+    "biet_duoc_ham_luong": "Febumac  40mg",
+    "hoat_chat": "Febuxostat",
+    "nhom_thuoc": "Trị Gout",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 194,
+    "biet_duoc_ham_luong": "Fenosup Lidose 160mg",
+    "hoat_chat": "Fenofibrat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 195,
+    "biet_duoc_ham_luong": "Fentanyl 50 micrograms/ml 0,1mg/2ml",
+    "hoat_chat": "Fentanyl",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 196,
+    "biet_duoc_ham_luong": "FLOEZY 0,4 mg",
+    "hoat_chat": "Tamsulosin hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 197,
+    "biet_duoc_ham_luong": "Folihem  310mg; Acid folic 0,35mg) Sắt fumarat (tương đương 100mg sắt",
+    "hoat_chat": "Sắt fumarat + acid folic",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 198,
+    "biet_duoc_ham_luong": "Fresofol 1% MCT/LCT 1%, 20ml",
+    "hoat_chat": "Propofol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 199,
+    "biet_duoc_ham_luong": "FUCICORT Cream 15G B/1",
+    "hoat_chat": "Fusidic acid + Betamethasone",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 200,
+    "biet_duoc_ham_luong": "Fucipa - B /10g) (2% + 0,1%",
+    "hoat_chat": "Fusidic acid + betamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 201,
+    "biet_duoc_ham_luong": "Gabapentin  300mg",
+    "hoat_chat": "Gabapentin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 202,
+    "biet_duoc_ham_luong": "Gentamicin  80mg/2ml",
+    "hoat_chat": "Gentamicin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 203,
+    "biet_duoc_ham_luong": "Gerolin  1000mg/4ml",
+    "hoat_chat": "Citicoline (dưới dạng Citicoline Sodium)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 204,
+    "biet_duoc_ham_luong": "Gerolin  500mg/4ml",
+    "hoat_chat": "Citicoline (dưới dạng Citicoline Sodium)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 205,
+    "biet_duoc_ham_luong": "GIFULDIN  500mg",
+    "hoat_chat": "Griseofulvin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 206,
+    "biet_duoc_ham_luong": "Gikorcen 120mg",
+    "hoat_chat": "Ginkgo biloba",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "240mg"
+  },
+  {
+    "id": 207,
+    "biet_duoc_ham_luong": "Gliatilin 1000mg/4ml",
+    "hoat_chat": "Choline alfoscerat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 208,
+    "biet_duoc_ham_luong": "Gliclada 60mg modified - release tablets 60mg",
+    "hoat_chat": "Gliclazid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 209,
+    "biet_duoc_ham_luong": "Glizym-M 80mg + 500mg",
+    "hoat_chat": "Gliclazid + metformin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 210,
+    "biet_duoc_ham_luong": "Glucose 10% 10%/250ml",
+    "hoat_chat": "Glucose",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 211,
+    "biet_duoc_ham_luong": "Glucose 30% 1,5g/5ml",
+    "hoat_chat": "Glucose",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 212,
+    "biet_duoc_ham_luong": "Glucose 5% 5%/500ml",
+    "hoat_chat": "Glucose",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 213,
+    "biet_duoc_ham_luong": "Glyceryl Trinitrate Hameln 1mg/ml-10ml 1mg/10ml",
+    "hoat_chat": "Glyceryl trinitrat(Nitroglycerin)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 214,
+    "biet_duoc_ham_luong": "Golistin-enema  /133ml) (21,41g + 7,89g",
+    "hoat_chat": "Monobasic natri phosphat + Dibasic natri phosphat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 215,
+    "biet_duoc_ham_luong": "Haepril 5mg",
+    "hoat_chat": "Lisinopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 216,
+    "biet_duoc_ham_luong": "Halixol 30mg",
+    "hoat_chat": "Ambroxol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 217,
+    "biet_duoc_ham_luong": "Haloperidol 1,5 mg 1,5 mg",
+    "hoat_chat": "Haloperidol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 218,
+    "biet_duoc_ham_luong": "Haxium  40mg",
+    "hoat_chat": "Esomeprazol (dưới dạng Esomeprazol pellets 22,5% (vi hạt bao tan trong ruột chứa Esomeprazol magnesi trihydrat)",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 219,
+    "biet_duoc_ham_luong": "Hebozeta 40 40mg; 1680mg",
+    "hoat_chat": "Mỗi gói 6 gram: Omeprazol; Natri bicarbonat",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 220,
+    "biet_duoc_ham_luong": "HEPA-MERZ 5g/10ml",
+    "hoat_chat": "L-Ornithin - L- aspartat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 221,
+    "biet_duoc_ham_luong": "Heparin 25000UI/5ml",
+    "hoat_chat": "Heparin (natri)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 222,
+    "biet_duoc_ham_luong": "Hornol 5mg + 3mg",
+    "hoat_chat": "Cytidin-5monophosphat disodium + uridin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 223,
+    "biet_duoc_ham_luong": "Huyết thanh kháng độc tố uốn ván tinh chế SAT",
+    "hoat_chat": "Huyết thanh kháng uốn ván",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 224,
+    "biet_duoc_ham_luong": "Hyasyn Forte 20mg/2ml",
+    "hoat_chat": "Natri hyaluronat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 225,
+    "biet_duoc_ham_luong": "Hyaza-BFS 25mg/2,5ml",
+    "hoat_chat": "Natri hyaluronat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 226,
+    "biet_duoc_ham_luong": "Hydrocolacyl 5mg",
+    "hoat_chat": "Prednisolon acetat (natri phosphate)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 227,
+    "biet_duoc_ham_luong": "Hylaform 0,1% 1mg/ml",
+    "hoat_chat": "Natri hyaluronat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 228,
+    "biet_duoc_ham_luong": "IFATRAX 100mg",
+    "hoat_chat": "Itraconazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 229,
+    "biet_duoc_ham_luong": "Incepavit 400 Capsule 400mg",
+    "hoat_chat": "Vitamin E",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 230,
+    "biet_duoc_ham_luong": "Insunova -G Pen 100IU/ml",
+    "hoat_chat": "Insulin degludec + Insulin aspart",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 231,
+    "biet_duoc_ham_luong": "Iodine 10g/100ml, chai 125ml",
+    "hoat_chat": "Povidon iodin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 232,
+    "biet_duoc_ham_luong": "Isosorbid 10mg",
+    "hoat_chat": "Isosorbid mononitrat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 233,
+    "biet_duoc_ham_luong": "Kaliclorid Kabi 10% 10ml 10% 10ml",
+    "hoat_chat": "Kaliclorid Kabi 10% 10ml",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 234,
+    "biet_duoc_ham_luong": "Kanausin 10mg",
+    "hoat_chat": "Metoclopramid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 235,
+    "biet_duoc_ham_luong": "Kezolgen 2% 2%/10g",
+    "hoat_chat": "Ketoconazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 236,
+    "biet_duoc_ham_luong": "Kingloba 40mg",
+    "hoat_chat": "Ginkgo biloba",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "240mg"
+  },
+  {
+    "id": 237,
+    "biet_duoc_ham_luong": "Lacbiosyn 10^8 CFU",
+    "hoat_chat": "Lactobacillus acidophilus",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 238,
+    "biet_duoc_ham_luong": "Leolen Forte 5mg + 3mg",
+    "hoat_chat": "Cytidin-5monophosphat disodium + uridin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 239,
+    "biet_duoc_ham_luong": "LEVODHG 250 250mg",
+    "hoat_chat": "Levofloxacin",
+    "nhom_thuoc": "Kháng sinh (Quinolon)",
+    "lieu_toi_da": "750mg"
+  },
+  {
+    "id": 240,
+    "biet_duoc_ham_luong": "Lidocain 10% 38g",
+    "hoat_chat": "Lidocain hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 241,
+    "biet_duoc_ham_luong": "Lidocain 40mg/2ml 40mg/2ml",
+    "hoat_chat": "Lidocain hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 242,
+    "biet_duoc_ham_luong": "Lidocain hydroclorid 40mg/2ml 40mg/2ml",
+    "hoat_chat": "Lidocain hydroclodrid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 243,
+    "biet_duoc_ham_luong": "Linanrex 1mg/1ml",
+    "hoat_chat": "Nor-epinephrin (Nor- adrenalin)",
+    "nhom_thuoc": "Cấp cứu",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 244,
+    "biet_duoc_ham_luong": "LISONORM 5mg + 10mg",
+    "hoat_chat": "Amlodipin+ lisinopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 245,
+    "biet_duoc_ham_luong": "Lisonorm 5mg; 10mg",
+    "hoat_chat": "Amlodipin + lisinopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 246,
+    "biet_duoc_ham_luong": "Lorista  50mg",
+    "hoat_chat": "Losartan kali",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 247,
+    "biet_duoc_ham_luong": "Lupiparin 40mg",
+    "hoat_chat": "Enoxaparin (natri)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 248,
+    "biet_duoc_ham_luong": "Magnesi B6 470mg + 5mg",
+    "hoat_chat": "Vitamin B6 + magnesi lactat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 249,
+    "biet_duoc_ham_luong": "Magnesi B6 5mg + 470mg",
+    "hoat_chat": "Vitamin B6 + magnesi lactat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 250,
+    "biet_duoc_ham_luong": "Magnesi sulfat Kabi 15% 15%/10 ml",
+    "hoat_chat": "Magnesi sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 251,
+    "biet_duoc_ham_luong": "Mannitol 20%/ 250ml",
+    "hoat_chat": "Manitol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 252,
+    "biet_duoc_ham_luong": "Marcaine Spinal Heavy ) 0,5% (5mg/ml - 4ml",
+    "hoat_chat": "Bupivacaine hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 253,
+    "biet_duoc_ham_luong": "Marcaine Spinal Heavy 5mg/ml",
+    "hoat_chat": "Bupivacain hydroclorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 254,
+    "biet_duoc_ham_luong": "Maxapin  1000mg",
+    "hoat_chat": "Cefepime",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 255,
+    "biet_duoc_ham_luong": "Maxitrol /ml) (1mg + 3500IU + 6000IU",
+    "hoat_chat": "Neomycin + polymyxin B + dexamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 256,
+    "biet_duoc_ham_luong": "Maxitrol /) (1mg+3500IU+6000IU",
+    "hoat_chat": "Dexamethason + Neomycin sulfat + Polymyxin B sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 257,
+    "biet_duoc_ham_luong": "Mecefix-B.E  250mg",
+    "hoat_chat": "Cefixim",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 258,
+    "biet_duoc_ham_luong": "Medopiren  500mg",
+    "hoat_chat": "Ciprofloxacin",
+    "nhom_thuoc": "Kháng sinh (Quinolon)",
+    "lieu_toi_da": "1500mg"
+  },
+  {
+    "id": 259,
+    "biet_duoc_ham_luong": "Medrol 16mg",
+    "hoat_chat": "Methyl prednisolon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 260,
+    "biet_duoc_ham_luong": "Mepoly /10ml) (10mg; 35mg; 100.000IU",
+    "hoat_chat": "Neomycin + polymyxin B + dexamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 261,
+    "biet_duoc_ham_luong": "Mepoly /10ml) (35mg; 100.000IU; 10mg",
+    "hoat_chat": "Neomycin + polymyxin B + dexamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 262,
+    "biet_duoc_ham_luong": "Meropenem/ Anfarm 500mg",
+    "hoat_chat": "Meropenem (dưới dạng Meropenem trihydrat)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 263,
+    "biet_duoc_ham_luong": "Meseca  ) 50mcg/0,05ml (0,1%",
+    "hoat_chat": "Fluticason propionat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 264,
+    "biet_duoc_ham_luong": "Metformin STELLA  850mg",
+    "hoat_chat": "Metformin",
+    "nhom_thuoc": "Trị tiểu đường",
+    "lieu_toi_da": "2500mg"
+  },
+  {
+    "id": 265,
+    "biet_duoc_ham_luong": "Metiny 375mg",
+    "hoat_chat": "Cefaclor",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 266,
+    "biet_duoc_ham_luong": "Metronidazol 250mg",
+    "hoat_chat": "Metronidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 267,
+    "biet_duoc_ham_luong": "Metronidazol  250mg",
+    "hoat_chat": "Metronidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 268,
+    "biet_duoc_ham_luong": "Metronidazol Kabi 500mg/ 100ml",
+    "hoat_chat": "Metronidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 269,
+    "biet_duoc_ham_luong": "Meyerapagil 140mg + 158mg",
+    "hoat_chat": "Magnesi aspartat+ kali aspartat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 270,
+    "biet_duoc_ham_luong": "Mezamazol 5mg",
+    "hoat_chat": "Thiamazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 271,
+    "biet_duoc_ham_luong": "Mibeplen 5mg",
+    "hoat_chat": "Felodipin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 272,
+    "biet_duoc_ham_luong": "Midazolam-hameln  5mg/ml",
+    "hoat_chat": "midazolam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 273,
+    "biet_duoc_ham_luong": "Mildocap 25mg",
+    "hoat_chat": "Captopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 274,
+    "biet_duoc_ham_luong": "Mimosa viên an thần 180mg;  600mg;  600mg; 150mg;  638mg.",
+    "hoat_chat": "Lá sen, Lá vông,  Lạc tiên, Bình vôi, Trinh nữ",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 275,
+    "biet_duoc_ham_luong": "MIRENZINE  5mg",
+    "hoat_chat": "Flunarizin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 276,
+    "biet_duoc_ham_luong": "Modom's 10mg",
+    "hoat_chat": "Domperidon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 277,
+    "biet_duoc_ham_luong": "Moxacin  500mg",
+    "hoat_chat": "Amoxicilin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 278,
+    "biet_duoc_ham_luong": "Mydocalm 150 150mg",
+    "hoat_chat": "Tolperison",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 279,
+    "biet_duoc_ham_luong": "Natri bicarbonat 1,4% 1,4%/ 250ml",
+    "hoat_chat": "Natri hydrocarbonat (natri bicarbonat)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 280,
+    "biet_duoc_ham_luong": "Natri clorid 0,9% 0,9%/100ml",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 281,
+    "biet_duoc_ham_luong": "Natri clorid 0,9% 0,9%/10ml",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 282,
+    "biet_duoc_ham_luong": "Natri Clorid 0,9% 0,9g/ 100ml",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 283,
+    "biet_duoc_ham_luong": "Natri clorid 0,9% Mỗi 100ml dung dịch chứa: Natri clorid 0,9g",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 284,
+    "biet_duoc_ham_luong": "Natri Clorid 0,9% 500ml",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 285,
+    "biet_duoc_ham_luong": "NATRI CLORID 3% 3%/100ml",
+    "hoat_chat": "Natri clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 286,
+    "biet_duoc_ham_luong": "NATROFEN 500mg",
+    "hoat_chat": "Cefprozil",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": "1000mg"
+  },
+  {
+    "id": 287,
+    "biet_duoc_ham_luong": "Nefolin 30mg",
+    "hoat_chat": "Nefopam (hydroclorid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 288,
+    "biet_duoc_ham_luong": "Neo - Megyna 500mg, 650IU, 1000IU",
+    "hoat_chat": "Metronidazol + neomycin + nystatin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 289,
+    "biet_duoc_ham_luong": "Neo-Codion 25mg + 100mg + 20mg",
+    "hoat_chat": "Codein camphosulphonat+ sulfoguaiacol + cao mềm Grindelia",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 290,
+    "biet_duoc_ham_luong": "Newbutin SR 300mg",
+    "hoat_chat": "Trimebutin maleat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 291,
+    "biet_duoc_ham_luong": "Nicardipine Aguettant 10mg/10ml 10mg/10ml",
+    "hoat_chat": "Nicardipin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 292,
+    "biet_duoc_ham_luong": "Nitralmyl 0,3mg",
+    "hoat_chat": "Nitroglycerin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 293,
+    "biet_duoc_ham_luong": "Nitromint 80mg/10g",
+    "hoat_chat": "Glyceryl trinitrat(Nitroglycerin)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 294,
+    "biet_duoc_ham_luong": "Nivalin 5mg tablets 5mg",
+    "hoat_chat": "Galantamin hydrobromid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 295,
+    "biet_duoc_ham_luong": "NORMAGUT 2,5x10^9 tế bào/250mg",
+    "hoat_chat": "Saccharomyces boulardii",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 296,
+    "biet_duoc_ham_luong": "Nước cất ống nhựa 5ml",
+    "hoat_chat": "Nước cất pha tiêm",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 297,
+    "biet_duoc_ham_luong": "Nước cất pha tiêm 10ml 10ml",
+    "hoat_chat": "Nước cất pha tiêm",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 298,
+    "biet_duoc_ham_luong": "Nước oxy già 3% 3%/60ml",
+    "hoat_chat": "Nước oxy già",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 299,
+    "biet_duoc_ham_luong": "Oflovid ophthalmic ointment 30000000000000,001",
+    "hoat_chat": "Ofloxacin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 300,
+    "biet_duoc_ham_luong": "Olanxol 10mg",
+    "hoat_chat": "Olanzapin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 301,
+    "biet_duoc_ham_luong": "Omevin 40mg",
+    "hoat_chat": "Omeprazol",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 302,
+    "biet_duoc_ham_luong": "Opiphine 10mg/1ml",
+    "hoat_chat": "Morphin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 303,
+    "biet_duoc_ham_luong": "Oresol new 0,52g; 0,3g; 0,509g; 2,7g",
+    "hoat_chat": "Natri clorid+kali clorid+ natri citrat + glucose khan",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 304,
+    "biet_duoc_ham_luong": "Oxacillin 1g 1g",
+    "hoat_chat": "Oxacilin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 305,
+    "biet_duoc_ham_luong": "Oxy 3 lít/phút 3 lít/phút",
+    "hoat_chat": "Khí oxy dược dụng",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 306,
+    "biet_duoc_ham_luong": "Ozanier  500mg",
+    "hoat_chat": "Levofloxacin (dưới dạng Levofloxacin hemihydrat 512mg)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 307,
+    "biet_duoc_ham_luong": "Panangin /10ml) (400mg + 452mg",
+    "hoat_chat": "Magnesi aspartat+ kali aspartat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 308,
+    "biet_duoc_ham_luong": "Panangin 140mg; 158mg",
+    "hoat_chat": "Magnesi aspartat+ kali aspartat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 309,
+    "biet_duoc_ham_luong": "Paracetamol 10mg/ml 10mg/1ml",
+    "hoat_chat": "Paracetamol (Acetaminophen)",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 310,
+    "biet_duoc_ham_luong": "Paracetamol  500mg",
+    "hoat_chat": "Paracetamol",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": "4000mg"
+  },
+  {
+    "id": 311,
+    "biet_duoc_ham_luong": "Perglim M-2 2mg + 500mg",
+    "hoat_chat": "Glimepirid + metformin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 312,
+    "biet_duoc_ham_luong": "Pethidine-hameln 50mg/ml 100mg/ 2ml",
+    "hoat_chat": "Pethidin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 313,
+    "biet_duoc_ham_luong": "Phenylephrine Aguettant 50 Microgrammes/ml 50mcg/ml",
+    "hoat_chat": "Phenylephrin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 314,
+    "biet_duoc_ham_luong": "Phospha gaspain Mỗi gói 20g chứa: Gel nhôm phosphat 20% 11g",
+    "hoat_chat": "Aluminum phosphat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 315,
+    "biet_duoc_ham_luong": "Piracetam  12g/60ml",
+    "hoat_chat": "Piracetam",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "4800mg"
+  },
+  {
+    "id": 316,
+    "biet_duoc_ham_luong": "Piracetam 3g 3g/15ml",
+    "hoat_chat": "Piracetam",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "4800mg"
+  },
+  {
+    "id": 317,
+    "biet_duoc_ham_luong": "Plavi - AS 75mg + 75mg",
+    "hoat_chat": "Acetylsalicylic acid+ clopidogrel",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 318,
+    "biet_duoc_ham_luong": "PM NEXTG CAL 120mg +55mg + 2mcg+ 8mcg",
+    "hoat_chat": "Calci, Phospho, Vitamin D3, Vitamin K1",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 319,
+    "biet_duoc_ham_luong": "Potenciator  5g/10ml",
+    "hoat_chat": "Arginin aspartat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 320,
+    "biet_duoc_ham_luong": "PRACETAM  1200mg",
+    "hoat_chat": "Piracetam",
+    "nhom_thuoc": "Tuần hoàn não",
+    "lieu_toi_da": "4800mg"
+  },
+  {
+    "id": 321,
+    "biet_duoc_ham_luong": "Remebentin  100mg",
+    "hoat_chat": "Gabapentin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 322,
+    "biet_duoc_ham_luong": "Reumokam 15mg/1,5ml",
+    "hoat_chat": "Meloxicam",
+    "nhom_thuoc": "Kháng viêm (NSAID)",
+    "lieu_toi_da": "15mg"
+  },
+  {
+    "id": 323,
+    "biet_duoc_ham_luong": "Ringer lactate / 500ml) (3g + 0,2g + 0,135g + 1,6g",
+    "hoat_chat": "Ringer lactat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 324,
+    "biet_duoc_ham_luong": "Rocuronium Kabi 10mg/ml  x 5ml) (10mg/ml",
+    "hoat_chat": "Rocuronium bromid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 325,
+    "biet_duoc_ham_luong": "Rocuronium Kabi 10mg/ml 10mg/ml",
+    "hoat_chat": "Rocuronium bromid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 326,
+    "biet_duoc_ham_luong": "Ronakym 100mg",
+    "hoat_chat": "Canagliflozin (dưới dạng canagliflozin hemihydrate 102mg)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 327,
+    "biet_duoc_ham_luong": "Sadapron  300mg",
+    "hoat_chat": "Allopurinol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 328,
+    "biet_duoc_ham_luong": "Sanlein 0.1 5mg/5ml",
+    "hoat_chat": "Natri hyaluronat tinh khiết",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 329,
+    "biet_duoc_ham_luong": "Sanlein 0.3 15mg/5ml",
+    "hoat_chat": "Natri hyaluronat tinh khiết",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 330,
+    "biet_duoc_ham_luong": "Savi Olanzapine  5mg",
+    "hoat_chat": "Olanzapin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 331,
+    "biet_duoc_ham_luong": "SaViBroxol 30 30mg",
+    "hoat_chat": "Ambroxol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 332,
+    "biet_duoc_ham_luong": "SaViMetoc 325mg; 400mg",
+    "hoat_chat": "Paracetamol + methocarbamol",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 333,
+    "biet_duoc_ham_luong": "Scanneuron-Forte 250mg + 250mg + 1000mcg",
+    "hoat_chat": "Vitamin B1 + B6 + B12",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 334,
+    "biet_duoc_ham_luong": "Scolanzo 15mg",
+    "hoat_chat": "Lanzoprazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 335,
+    "biet_duoc_ham_luong": "Seduxen 5mg",
+    "hoat_chat": "Diazepam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 336,
+    "biet_duoc_ham_luong": "Sevoflurane ) 100% (tt/tt",
+    "hoat_chat": "Sevoflurane",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 337,
+    "biet_duoc_ham_luong": "Silyhepatis 1000mg/5ml",
+    "hoat_chat": "l- arginin hydrochlorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 338,
+    "biet_duoc_ham_luong": "Simvastatin Savi 20 20mg",
+    "hoat_chat": "Simvastatin",
+    "nhom_thuoc": "Hạ mỡ máu (Statin)",
+    "lieu_toi_da": "80mg"
+  },
+  {
+    "id": 339,
+    "biet_duoc_ham_luong": "SM.Amoxicillin  500mg",
+    "hoat_chat": "Amoxicilin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 340,
+    "biet_duoc_ham_luong": "Smecta 3 gam",
+    "hoat_chat": "Diosmectit",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 341,
+    "biet_duoc_ham_luong": "Smoflipid 20% /100ml) (6g; 6g; 5g; 3g",
+    "hoat_chat": "Nhũ dịch lipid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 342,
+    "biet_duoc_ham_luong": "Sorbitol 5g",
+    "hoat_chat": "Sorbitol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 343,
+    "biet_duoc_ham_luong": "SORBITOL 3.3% 3.3%/500ml",
+    "hoat_chat": "Sorbitol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 344,
+    "biet_duoc_ham_luong": "Staclazide  80mg",
+    "hoat_chat": "Gliclazide",
+    "nhom_thuoc": "Trị tiểu đường",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 345,
+    "biet_duoc_ham_luong": "Stilaren 50mg + 850mg",
+    "hoat_chat": "Vildagliptin + Metformin HCL",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 346,
+    "biet_duoc_ham_luong": "Sugam-BFS 100mg/ml",
+    "hoat_chat": "Sugammadex (dưới dạng sugammadex natri)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 347,
+    "biet_duoc_ham_luong": "Sulraapix 1,5g 1g + 0,5g",
+    "hoat_chat": "Cefoperazon + sulbactam*",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 348,
+    "biet_duoc_ham_luong": "Syseye 30mg/10ml - Lọ 15ml",
+    "hoat_chat": "Hydroxypropylmethylcellulose",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 349,
+    "biet_duoc_ham_luong": "Systane Ultra 0.4%+0.3%",
+    "hoat_chat": "Polythylene glycol 400 + Propylen glycol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 350,
+    "biet_duoc_ham_luong": "Tanganil  500mg",
+    "hoat_chat": "Acetyl leucin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 351,
+    "biet_duoc_ham_luong": "Tanganil  500mg",
+    "hoat_chat": "Acetyl leucin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 352,
+    "biet_duoc_ham_luong": "Tanganil  500mg/5ml",
+    "hoat_chat": "Acetyl leucin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 353,
+    "biet_duoc_ham_luong": "Tazopelin 4,5g 4g + 0,5g",
+    "hoat_chat": "Piperacilin + tazobactam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 354,
+    "biet_duoc_ham_luong": "Tazopelin 4,5g 4g; 0,5g",
+    "hoat_chat": "Piperacilin + tazobactam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 355,
+    "biet_duoc_ham_luong": "Tefostad  300mg",
+    "hoat_chat": "Tenofovir",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 356,
+    "biet_duoc_ham_luong": "Tefostad 300mg",
+    "hoat_chat": "Tenofovir (TDF)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 357,
+    "biet_duoc_ham_luong": "Tenamyd-Cefotaxime  1000mg",
+    "hoat_chat": "Cefotaxim (dưới dạng Cefotaxim natri)",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 358,
+    "biet_duoc_ham_luong": "Tenamyd-Ceftazidime 500 0,5 g",
+    "hoat_chat": "Ceftazidim",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 359,
+    "biet_duoc_ham_luong": "Tenamyd-ceftriaxone 2000 mg",
+    "hoat_chat": "Ceftriaxon",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 360,
+    "biet_duoc_ham_luong": "Tinidazol 500mg",
+    "hoat_chat": "Tinidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 361,
+    "biet_duoc_ham_luong": "Tinidazol Kabi 500mg/100ml",
+    "hoat_chat": "Tinidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 362,
+    "biet_duoc_ham_luong": "Tobradex /1ml) (3mg + 1mg",
+    "hoat_chat": "Tobramycin + Dexamethasone",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 363,
+    "biet_duoc_ham_luong": "Tobradex /1ml) (3mg + 1mg",
+    "hoat_chat": "Tobramycin + dexamethason",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 364,
+    "biet_duoc_ham_luong": "Tranexamic acid 500mg/5ml 500mg",
+    "hoat_chat": "Tranexamic acid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 365,
+    "biet_duoc_ham_luong": "Tranfast 64g,5,7g,1,680g, 1,460g, 0,750g",
+    "hoat_chat": "Macrogol, Natri sulfat, Natri bicarbonat, Natri clorid, Kali clorid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 366,
+    "biet_duoc_ham_luong": "Triamcinolon 80mg/2ml",
+    "hoat_chat": "Triamcinolon acetonid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 367,
+    "biet_duoc_ham_luong": "Tridabu 120mg",
+    "hoat_chat": "Bismuth",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 368,
+    "biet_duoc_ham_luong": "Trimoxtal 500/500 mg",
+    "hoat_chat": "Amoxicilin+ Sulbactam",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 369,
+    "biet_duoc_ham_luong": "TRIPLIXAM 5mg/1.25mg/10mg 5mg; 1,25mg; 10mg",
+    "hoat_chat": "Amlodipin + indapamid + perindopril",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 370,
+    "biet_duoc_ham_luong": "Tumegas Mỗi 15ml chứa: Bột nghệ vàng 4,5g",
+    "hoat_chat": "Nghệ vàng",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 371,
+    "biet_duoc_ham_luong": "ULTRADOL 325mg; 37,5mg",
+    "hoat_chat": "Paracetamol; Tramadol hydrocloride",
+    "nhom_thuoc": "Giảm đau - hạ sốt",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 372,
+    "biet_duoc_ham_luong": "Usapril 10mg",
+    "hoat_chat": "Enalapril",
+    "nhom_thuoc": "Ức chế men chuyển",
+    "lieu_toi_da": "40mg"
+  },
+  {
+    "id": 373,
+    "biet_duoc_ham_luong": "Vancomycin 500mg",
+    "hoat_chat": "Vancomycin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 374,
+    "biet_duoc_ham_luong": "Vasmetine 8mg",
+    "hoat_chat": "Acrivastin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 375,
+    "biet_duoc_ham_luong": "Vaspycar MR 35mg",
+    "hoat_chat": "Trimetazidin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 376,
+    "biet_duoc_ham_luong": "Verospiron  25mg",
+    "hoat_chat": "Spironolacton",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 377,
+    "biet_duoc_ham_luong": "VERTIKO 24mg",
+    "hoat_chat": "Betahistin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 378,
+    "biet_duoc_ham_luong": "Viegan-B ; Cao đặc Nhân trần 50mg ; Cao đặc Cỏ nhọ nồi 50mg ) Cao đặc Diệp hạ châu 100mg (tương đương 0,5g Diệp hạ châu",
+    "hoat_chat": "Diệp hạ châu; Nhân trần; Cỏ nhọ nồi",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 379,
+    "biet_duoc_ham_luong": "Vigamox 5mg/1ml",
+    "hoat_chat": "Moxifloxacin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 380,
+    "biet_duoc_ham_luong": "VINCESTAD 5 5mg",
+    "hoat_chat": "Vinpocetin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 381,
+    "biet_duoc_ham_luong": "Vincomid 10mg/2ml",
+    "hoat_chat": "Metoclopramid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 382,
+    "biet_duoc_ham_luong": "Vincopane 20mg/1ml",
+    "hoat_chat": "Hyoscin butylbromid",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 383,
+    "biet_duoc_ham_luong": "Vinphacine 500mg/2ml",
+    "hoat_chat": "Amikacin",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 384,
+    "biet_duoc_ham_luong": "Vinphason 100mg",
+    "hoat_chat": "Hydrocortison",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 385,
+    "biet_duoc_ham_luong": "Vinphyton 10mg/1ml",
+    "hoat_chat": "Phytomenadion (Vitamin K1)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 386,
+    "biet_duoc_ham_luong": "Vinrovit 5000 50mg + 250mg + 5mg",
+    "hoat_chat": "Vitamin B1 + B6 + B12",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 387,
+    "biet_duoc_ham_luong": "Vinsalmol 5 5mg/2,5ml",
+    "hoat_chat": "Salbutamol sulfat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 388,
+    "biet_duoc_ham_luong": "VINSOLON 40mg",
+    "hoat_chat": "Methyl prednisolon",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 389,
+    "biet_duoc_ham_luong": "Vinstigmin 0,5mg/1ml",
+    "hoat_chat": "Neostigmin metylsulfat (bromid)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 390,
+    "biet_duoc_ham_luong": "Vinxium 40mg",
+    "hoat_chat": "Esomeprazol",
+    "nhom_thuoc": "Dạ dày",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 391,
+    "biet_duoc_ham_luong": "Vinzix 20mg/2ml",
+    "hoat_chat": "Furosemid",
+    "nhom_thuoc": "Lợi tiểu quai",
+    "lieu_toi_da": "120mg"
+  },
+  {
+    "id": 392,
+    "biet_duoc_ham_luong": "Vitamin C 500mg",
+    "hoat_chat": "Vitamin C",
+    "nhom_thuoc": "Vitamin",
+    "lieu_toi_da": "2g"
+  },
+  {
+    "id": 393,
+    "biet_duoc_ham_luong": "Vitamin PP 500mg",
+    "hoat_chat": "Vitamin PP",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 394,
+    "biet_duoc_ham_luong": "Volulyte 6% /500ml) (30g; 2,315g; 3,01g; 0,15g; 0,15g",
+    "hoat_chat": "Tinh bột este hóa (hydroxyethylstarch)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 395,
+    "biet_duoc_ham_luong": "Volulyte 6% Bag 20's 6%/ 500ml",
+    "hoat_chat": "Tinh bột este hóa",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 396,
+    "biet_duoc_ham_luong": "Xatral Xl 10mg",
+    "hoat_chat": "Alfuzosin HCL",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 397,
+    "biet_duoc_ham_luong": "Xenetix 300 65,81g/100ml",
+    "hoat_chat": "Iobitridol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 398,
+    "biet_duoc_ham_luong": "Xenetix 350 ; lọ 50ml) Iodine 30g/100ml (dưới dạng Iobitridol 65,81g/100ml",
+    "hoat_chat": "Iobitridol (dưới dạng Iobitridol 76,78g/100ml)",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 399,
+    "biet_duoc_ham_luong": "YUMANGEL F 1,5g/15ml",
+    "hoat_chat": "Almagat",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
+  },
+  {
+    "id": 400,
+    "biet_duoc_ham_luong": "Zaromax 500mg",
+    "hoat_chat": "Azithromycin",
+    "nhom_thuoc": "Kháng sinh",
+    "lieu_toi_da": "500mg"
+  },
+  {
+    "id": 401,
+    "biet_duoc_ham_luong": "ZidocinDHG 750.000 IU + 125mg",
+    "hoat_chat": "Spiramycin + Metronidazol",
+    "nhom_thuoc": "",
+    "lieu_toi_da": ""
   }
 ]
